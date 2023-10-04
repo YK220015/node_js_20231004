@@ -1,5 +1,5 @@
-exports.item=[
-    "Fumo",
-    "Fish",
-    "日本人"
-]
+exports.show=function(items){
+    items.forEach(item => {
+        console.log(item)
+    });
+}
