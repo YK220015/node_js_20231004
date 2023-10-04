@@ -1,5 +1,5 @@
 exports.item=[
     "Fumo",
     "Fish",
-    "Pen"
+    "日本人"
 ]
